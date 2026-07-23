@@ -226,45 +226,6 @@ The confusion matrix, box plots, and feature importance analysis helped explain 
 
 ---
 
-## Challenges & Solutions
-
-### Challenge: Preparing Data for Machine Learning
-
-Machine learning algorithms require numerical inputs and standardized feature names.
-
-### Solution
-
-Categorical target values were encoded into numerical classes and column names were cleaned for consistency.
-
----
-
-### Challenge: Selecting an Effective Model
-
-Different machine learning algorithms can produce significantly different results.
-
-### Solution
-
-Multiple models were trained and evaluated using accuracy, precision, recall, and F1 score to determine the best-performing approach.
-
----
-
-## Key Learnings
-
-Through this project I gained experience with:
-
-- Data preprocessing
-- Classification modeling
-- Decision Trees
-- Logistic Regression
-- Model evaluation
-- Confusion matrices
-- Precision, Recall, and F1 metrics
-- Feature importance analysis
-- Data visualization
-- Machine learning workflows using Scikit-learn
-
----
-
 ## Future Improvements
 
 Potential enhancements include:
